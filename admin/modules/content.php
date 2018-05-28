@@ -1,8 +1,4 @@
 
-<section id="content" class="table-layout animated fadeIn">
-
-    <!-- Column Center -->
-    <div class="chute chute-center" style="background: #fff;">
 
         <?php
 		if(isset($_GET['quanly'])){
@@ -45,9 +41,3 @@
 		else if($tam=="sanpham"){
 			include("modules/sanpham/main.php");}
 		?>
-
-
-    </div>
-    <!-- /Column Center -->
-
-</section>

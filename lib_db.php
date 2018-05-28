@@ -31,7 +31,7 @@ function connect(){
 	if (!$link) {
 	    die('<br/>Khong ket noi duoc: ' . mysqli_error());
 	}	
-	mysqli_select_db($link,'donghotot') or die('Could not select database.');
+	mysqli_select_db($link,'clock') or die('Could not select database.');
 	mysqli_query($link,"SET NAMES 'utf8'");
 	//Truy vấn dữ liệu trong đó $link là kết nối đã được tạo tới csdl, SET NAMES 'utf8' câu lệnh truy vấn
 }
@@ -69,6 +69,7 @@ function exec_select($sql){
 	//Khong co loi
 	if ($res ){
 		$i = 1;
+		$ret = array();
 		while( $row = $res->fetch_array(MYSQLI_ASSOC) )
 		{				
 			$ret[]= $row ;
