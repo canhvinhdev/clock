@@ -1,0 +1,18 @@
+<?php
+	$ac=$_GET['ac'];
+	if($ac=="add"){
+		include("modules/tintuc/add.php");
+	}
+	if($ac=="lietke"){
+		include("modules/tintuc/lietke.php");
+	}
+	if($ac=="edit"){
+		include("modules/tintuc/edit.php");
+	}
+	if($ac=="del"){
+		include("modules/tintuc/del.php");
+	}
+	if($ac=="trangthai"){
+		include("modules/tintuc/trangthai.php");
+	}
+?>

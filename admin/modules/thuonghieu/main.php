@@ -1,0 +1,19 @@
+<?php
+		$ac=$_GET['ac'];
+		if($ac=="add"){
+			include("modules/thuonghieu/add.php");
+		}
+		if($ac=="lietke"){
+			include("modules/thuonghieu/lietke.php");
+		}
+		if($ac=="trangthai"){
+			include("modules/thuonghieu/trangthai.php");
+		}
+		if($ac=="edit"){
+			include("modules/thuonghieu/edit.php");
+		}
+		if($ac=="del"){
+			include("modules/thuonghieu/del.php");
+		}
+?>
+	

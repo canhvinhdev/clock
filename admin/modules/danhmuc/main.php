@@ -1,0 +1,19 @@
+<?php
+		$ac=$_GET['ac'];
+		if($ac=="add"){
+			include("modules/danhmuc/add.php");
+		}
+		if($ac=="lietke"){
+			include("modules/danhmuc/lietke.php");
+		}
+		if($ac=="edit"){
+			include("modules/danhmuc/edit.php");
+		}
+		if($ac=="trangthai"){
+			include("modules/danhmuc/trangthai.php");
+		}
+		if($ac=="del"){
+			include("modules/danhmuc/del.php");
+		}
+?>
+	

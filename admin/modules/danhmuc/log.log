@@ -1,0 +1,207 @@
+30.10.2016 06:19:47 <!-- sql=[insert into danhmuc (ten_dm,parent_id) values  (n'SUNRISE','0')] --> 
+30.10.2016 06:20:03 <!-- sql=[insert into danhmuc (ten_dm,parent_id) values  (n'OBAKU','0')] --> 
+30.10.2016 06:22:45 <!-- sql=[insert into danhmuc (ten_dm,parent_id) values  (n'HIHA','0')] --> 
+30.10.2016 06:27:54 <!-- sql=[insert into danhmuc (ten_dm,parent_id) values (n'THuy','0')] --> 
+30.10.2016 06:28:07 <!-- sql=[insert into danhmuc (ten_dm,parent_id) values (n'hahha','0')] --> 
+30.10.2016 06:34:21 <!-- sql=[delete from danhmuc 
+	where id=20] --> 
+30.10.2016 06:34:46 <!-- sql=[delete from danhmuc 
+	where id=19] --> 
+30.10.2016 06:43:12 <!-- sql=[update danhmuc set ten_dm=n'OBAKUu',parent_id=n'0' WHERE id =18] --> 
+30.10.2016 06:43:23 <!-- sql=[update danhmuc set ten_dm=n'OBAKU',parent_id=n'0' WHERE id =18] --> 
+30.10.2016 06:43:41 <!-- sql=[update danhmuc set ten_dm=n'SKAGEN',parent_id=n'0' WHERE id =14] --> 
+30.10.2016 06:43:54 <!-- sql=[update danhmuc set ten_dm=n'CITIZEN',parent_id=n'0' WHERE id =13] --> 
+30.10.2016 06:44:05 <!-- sql=[update danhmuc set ten_dm=n'TITAN',parent_id=n'0' WHERE id =12] --> 
+30.10.2016 06:47:04 <!-- sql=[update danhmuc set ten_dm=n'Đồng hồ Candino Cặp Đôi',parent_id=n'1' WHERE id =6] --> 
+30.10.2016 06:47:35 <!-- sql=[update danhmuc set ten_dm=n'CASIO',parent_id=n'0' WHERE id =7] --> 
+30.10.2016 06:47:44 <!-- sql=[update danhmuc set ten_dm=n'ORIENT',parent_id=n'0' WHERE id =10] --> 
+30.10.2016 06:47:52 <!-- sql=[update danhmuc set ten_dm=n'SEIKO',parent_id=n'0' WHERE id =9] --> 
+30.10.2016 06:48:08 <!-- sql=[update danhmuc set ten_dm=n'POLICE',parent_id=n'0' WHERE id =8] --> 
+30.10.2016 06:48:27 <!-- sql=[update danhmuc set ten_dm=n'CANDINO',parent_id=n'0' WHERE id =1] --> 
+30.10.2016 06:48:45 <!-- sql=[update danhmuc set ten_dm=n'Đồng hồ Candino Nam',parent_id=n'1' WHERE id =2] --> 
+30.10.2016 06:49:07 <!-- sql=[update danhmuc set ten_dm=n'Đồng hồ Candino Automatic',parent_id=n'1' WHERE id =5] --> 
+30.10.2016 06:49:25 <!-- sql=[update danhmuc set ten_dm=n'Đồng hồ Candino Nữ',parent_id=n'1' WHERE id =4] --> 
+30.10.2016 08:19:12 <!-- sql=[delete from danhmuc 
+	where id=18] --> 
+03.11.2016 09:12:02 sql=[select * from danhmc] 
+03.11.2016 09:12:02 Khong the select duoc,ERROR=[Table 'donghotot.danhmc' doesn't exist] 
+03.11.2016 09:12:02 COUNT=[0] 
+03.11.2016 09:12:02 <!-- sql=[insert into danhmuc (ten_dm,parent_id) values (n'SUNRISE','0')] --> 
+03.11.2016 09:12:28 <!-- sql=[delete from danhmuc 
+	where id=21] --> 
+03.11.2016 09:13:51 sql=[select * from danhmc] 
+03.11.2016 09:13:51 Khong the select duoc,ERROR=[Table 'donghotot.danhmc' doesn't exist] 
+03.11.2016 09:13:51 COUNT=[0] 
+03.11.2016 09:13:51 <!-- sql=[insert into danhmuc (ten_dm,parent_id) values (n'SUNRISE','1')] --> 
+03.11.2016 09:14:08 <!-- sql=[delete from danhmuc 
+	where id=22] --> 
+03.11.2016 09:22:30 <!-- sql=[insert into danhmuc (ten_dm,parent_id) values (n'hiha','1')] --> 
+03.11.2016 09:22:41 <!-- sql=[insert into danhmuc (ten_dm,parent_id) values (n'hiaaa','1')] --> 
+03.11.2016 09:22:50 <!-- sql=[delete from danhmuc 
+	where id=23] --> 
+03.11.2016 09:22:56 <!-- sql=[delete from danhmuc 
+	where id=24] --> 
+03.11.2016 09:23:03 <!-- sql=[delete from danhmuc 
+	where id=17] --> 
+07.11.2016 04:06:38 <!-- sql=[insert into danhmuc (ten_dm,parent_id) values (n'HIHA','1')] --> 
+07.11.2016 04:07:13 <!-- sql=[insert into danhmuc (ten_dm,parent_id) values (n'THuy','7')] --> 
+07.11.2016 04:07:40 <!-- sql=[insert into danhmuc (ten_dm,parent_id) values (n'aiko','7')] --> 
+07.11.2016 04:08:42 <!-- sql=[insert into danhmuc (ten_dm,parent_id) values (n'thuy','0')] --> 
+07.11.2016 06:10:48 <!-- sql=[update danhmuc set ten_dm=n'Đồng hồ Candino Cặp Đôi',parent_id=n'7' WHERE id =6] --> 
+07.11.2016 06:11:23 <!-- sql=[update danhmuc set ten_dm=n'Đồng hồ Candino Cặp Đôi',parent_id=n'1' WHERE id =6] --> 
+07.11.2016 06:25:46 <!-- sql=[update danhmuc set ten_dm=n'aiko',parent_id=n'0' WHERE id =28] --> 
+07.11.2016 06:29:00 <!-- sql=[delete from danhmuc 
+	where id=28] --> 
+07.11.2016 06:29:04 <!-- sql=[delete from danhmuc 
+	where id=27] --> 
+07.11.2016 06:29:08 <!-- sql=[delete from danhmuc 
+	where id=26] --> 
+07.11.2016 06:29:12 <!-- sql=[delete from danhmuc 
+	where id=25] --> 
+07.11.2016 06:37:00 <!-- sql=[insert into danhmuc (ten_dm,parent_id) values (n'thuyaikii','7')] --> 
+07.11.2016 06:37:11 <!-- sql=[insert into danhmuc (ten_dm,parent_id) values (n'thuy','7')] --> 
+07.11.2016 06:59:33 <!-- sql=[delete from danhmuc 
+	where id=30] --> 
+07.11.2016 07:42:29 sql=[select * from admin] 
+07.11.2016 07:42:29 Khong the select duoc,ERROR=[Table 'donghotot.admin' doesn't exist] 
+07.11.2016 07:42:29 COUNT=[0] 
+07.11.2016 07:42:30 <!-- sql=[insert into danhmuc (ten_dm,parent_id) values (n'CASIO','0')] --> 
+07.11.2016 07:45:08 sql=[select * from admin] 
+07.11.2016 07:45:08 Khong the select duoc,ERROR=[Table 'donghotot.admin' doesn't exist] 
+07.11.2016 07:45:08 COUNT=[0] 
+07.11.2016 07:45:08 <!-- sql=[insert into danhmuc (ten_dm,parent_id) values (n'CASIO','0')] --> 
+07.11.2016 07:46:11 sql=[select * from admin] 
+07.11.2016 07:46:11 Khong the select duoc,ERROR=[Table 'donghotot.admin' doesn't exist] 
+07.11.2016 07:46:11 COUNT=[0] 
+07.11.2016 07:46:36 sql=[select * from danhmuc] 
+07.11.2016 07:46:48 sql=[select * from danhmuc] 
+07.11.2016 08:03:43 sql=[select * from danhmuc] 
+07.11.2016 08:03:43 <!-- sql=[insert into danhmuc (ten_dm,parent_id) values (n'CASIO','0')] --> 
+07.11.2016 08:04:42 sql=[select * from danhmuc] 
+07.11.2016 08:04:42 <!-- sql=[insert into danhmuc (ten_dm,parent_id) values (n'SEIKO','0')] --> 
+07.11.2016 08:04:55 <!-- sql=[delete from danhmuc 
+	where id=34] --> 
+07.11.2016 08:04:59 <!-- sql=[delete from danhmuc 
+	where id=33] --> 
+07.11.2016 08:05:04 <!-- sql=[delete from danhmuc 
+	where id=32] --> 
+07.11.2016 08:05:17 sql=[select * from danhmuc] 
+07.11.2016 08:05:17 <!-- sql=[insert into danhmuc (ten_dm,parent_id) values (n'thuy','0')] --> 
+07.11.2016 08:05:23 sql=[select * from danhmuc] 
+07.11.2016 08:05:23 <!-- sql=[insert into danhmuc (ten_dm,parent_id) values (n'SEIKO','0')] --> 
+07.11.2016 08:05:28 sql=[select * from danhmuc] 
+07.11.2016 08:05:28 <!-- sql=[insert into danhmuc (ten_dm,parent_id) values (n'CASIO','0')] --> 
+07.11.2016 08:05:55 <!-- sql=[delete from danhmuc 
+	where id=37] --> 
+07.11.2016 08:05:59 <!-- sql=[delete from danhmuc 
+	where id=36] --> 
+07.11.2016 08:06:03 <!-- sql=[delete from danhmuc 
+	where id=35] --> 
+07.11.2016 08:06:07 <!-- sql=[delete from danhmuc 
+	where id=31] --> 
+07.11.2016 08:06:12 <!-- sql=[delete from danhmuc 
+	where id=29] --> 
+07.11.2016 08:06:20 sql=[select * from danhmuc] 
+07.11.2016 08:06:20 <!-- sql=[insert into danhmuc (ten_dm,parent_id) values (n'SUNRISE','0')] --> 
+07.11.2016 08:06:36 sql=[select * from danhmuc] 
+07.11.2016 08:06:36 <!-- sql=[insert into danhmuc (ten_dm,parent_id) values (n'Panda','0')] --> 
+07.11.2016 08:22:36 sql=[select * from danhmuc] 
+07.11.2016 08:24:37 sql=[select * from danhmuc] 
+07.11.2016 08:26:33 sql=[select * from danhmuc] 
+07.11.2016 08:27:45 sql=[select * from danhmuc] 
+07.11.2016 08:38:09 <!-- sql=[delete from danhmuc 
+	where id=48] --> 
+07.11.2016 08:38:12 <!-- sql=[delete from danhmuc 
+	where id=47] --> 
+07.11.2016 08:38:16 <!-- sql=[delete from danhmuc 
+	where id=46] --> 
+07.11.2016 08:38:19 <!-- sql=[delete from danhmuc 
+	where id=45] --> 
+07.11.2016 08:38:23 <!-- sql=[delete from danhmuc 
+	where id=44] --> 
+07.11.2016 08:38:26 <!-- sql=[delete from danhmuc 
+	where id=43] --> 
+07.11.2016 08:38:30 <!-- sql=[delete from danhmuc 
+	where id=42] --> 
+07.11.2016 08:38:33 <!-- sql=[delete from danhmuc 
+	where id=41] --> 
+07.11.2016 08:38:37 <!-- sql=[delete from danhmuc 
+	where id=40] --> 
+07.11.2016 08:45:23 <!-- sql=[delete from danhmuc 
+	where id=38] --> 
+07.11.2016 08:45:27 <!-- sql=[delete from danhmuc 
+	where id=49] --> 
+07.11.2016 08:45:31 <!-- sql=[delete from danhmuc 
+	where id=39] --> 
+07.11.2016 10:25:14 <!-- sql=[delete from danhmuc 
+	where id=50] --> 
+08.11.2016 05:45:28 <!-- sql=[delete from danhmuc 
+	where id=51] --> 
+08.11.2016 04:32:27 <!-- sql=[update danhmuc set ten_dm=n'Đồng hồ Casio G-Shock',parent_id=n'7' WHERE id =54] --> 
+09.11.2016 03:04:46 <!-- sql=[update danhmuc set ten_dm='OLYM PIANUSs',parent_id=0 where id=56] --> 
+09.11.2016 03:15:00 <!-- sql=[delete from danhmuc 
+	where id=59] --> 
+09.11.2016 03:15:07 <!-- sql=[delete from danhmuc 
+	where id=57] --> 
+14.11.2016 04:37:32 sql=[select * from danhmuc] 
+14.11.2016 04:37:32 <!-- sql=[insert into danhmuc (ten_dm,parent_id) values (n'gi','0')] --> 
+14.11.2016 05:02:53 <!-- sql=[delete from danhmuc 
+	where id=66] --> 
+14.11.2016 05:02:56 <!-- sql=[delete from danhmuc 
+	where id=65] --> 
+14.11.2016 05:03:01 <!-- sql=[delete from danhmuc 
+	where id=64] --> 
+14.11.2016 05:03:06 <!-- sql=[delete from danhmuc 
+	where id=62] --> 
+14.11.2016 05:08:57 <!-- sql=[delete from danhmuc 
+	where id=69] --> 
+14.11.2016 05:09:01 <!-- sql=[delete from danhmuc 
+	where id=68] --> 
+14.11.2016 05:09:06 <!-- sql=[delete from danhmuc 
+	where id=67] --> 
+15.11.2016 11:50:50 <!-- sql=[delete from danhmuc 
+	where id=54] --> 
+15.11.2016 11:50:58 <!-- sql=[delete from danhmuc 
+	where id=15] --> 
+16.11.2016 05:37:01 <!-- sql=[delete from danhmuc 
+	where id=63] --> 
+20.11.2016 02:25:09 <!-- sql=[delete from danhmuc 
+	where id=77] --> 
+20.11.2016 04:09:07 <!-- sql=[delete from danhmuc 
+	where id=76] --> 
+20.11.2016 04:09:11 <!-- sql=[delete from danhmuc 
+	where id=75] --> 
+24.11.2016 03:44:29 <!-- sql=[delete from danhmuc 
+	where id=63] --> 
+24.11.2016 03:44:36 <!-- sql=[delete from danhmuc 
+	where id=63] --> 
+24.11.2016 03:45:36 <!-- sql=[delete from danhmuc 
+	where id=64] --> 
+24.11.2016 03:45:41 <!-- sql=[delete from danhmuc 
+	where id=63] --> 
+24.11.2016 03:45:59 <!-- sql=[delete from danhmuc 
+	where id=63] --> 
+24.11.2016 03:46:15 <!-- sql=[delete from danhmuc 
+	where id=10] --> 
+24.11.2016 03:48:16 <!-- sql=[delete from danhmuc 
+	where id=60] --> 
+24.11.2016 03:48:33 <!-- sql=[delete from danhmuc 
+	where id=65] --> 
+24.11.2016 03:52:25 <!-- sql=[delete from danhmuc 
+	where id=66] --> 
+24.11.2016 03:54:23 <!-- sql=[delete from danhmuc 
+	where id=67] --> 
+24.11.2016 04:27:19 <!-- sql=[delete from danhmuc 
+	where id=63] --> 
+24.11.2016 04:28:06 <!-- sql=[delete from danhmuc 
+	where id=58] --> 
+24.11.2016 04:28:16 <!-- sql=[delete from danhmuc 
+	where id=14] --> 
+24.11.2016 04:29:09 <!-- sql=[delete from danhmuc 
+	where id=6] --> 
+24.11.2016 04:29:19 <!-- sql=[delete from danhmuc 
+	where id=7] --> 
+24.11.2016 04:29:45 <!-- sql=[delete from danhmuc 
+	where id=68] --> 
+24.11.2016 04:31:26 <!-- sql=[delete from danhmuc 
+	where id=58] --> 

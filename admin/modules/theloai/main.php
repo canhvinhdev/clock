@@ -1,0 +1,19 @@
+<?php
+		$ac=$_GET['ac'];
+		if($ac=="add"){
+			include("modules/theloai/add.php");
+		}
+		if($ac=="lietke"){
+			include("modules/theloai/lietke.php");
+		}
+		if($ac=="edit"){
+			include("modules/theloai/edit.php");
+		}
+		if($ac=="trangthai"){
+			include("modules/theloai/trangthai.php");
+		}
+		if($ac=="del"){
+			include("modules/theloai/del.php");
+		}
+?>
+	

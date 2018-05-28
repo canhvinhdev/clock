@@ -1,0 +1,18 @@
+<?php
+		$ac=$_GET['ac'];
+		if($ac=="lietke"){
+			include("modules/donhang/lietke.php");
+		}
+		if($ac=="sua"){
+			include("modules/donhang/sua.php");
+		}
+		if($ac=="del"){
+			include("modules/donhang/del.php");
+		}
+		if($ac=="trangthai"){
+			include("modules/donhang/trangthai.php");
+		}
+		if($ac=="lietkechitiet"){
+			include("modules/donhang/lietkechitiet.php");
+		}
+?>

@@ -1,0 +1,28 @@
+
+<?php
+	$ac=$_GET['ac'];
+	if($ac=="add"){
+		include("modules/sanpham/add.php");
+	}
+	if($ac=="lietke"){
+		include("modules/sanpham/lietke.php");
+	}
+	if($ac=="edit"){
+		include("modules/sanpham/edit.php");
+	}
+	if($ac=="trangthai"){
+		include("modules/sanpham/trangthai.php");
+	}
+	if($ac=="del"){
+		include("modules/sanpham/del.php");
+	}
+	if($ac=="thongke"){
+		include("modules/sanpham/thongke.php");
+	}
+	if($ac=="lietkechitiet"){
+		include("modules/sanpham/lietkechitiet.php");
+	}
+	if($ac=="search"){
+		include("modules/sanpham/search.php");
+	}
+?>

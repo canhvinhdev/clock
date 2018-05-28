@@ -1,0 +1,21 @@
+<?php
+	$ac=$_GET['ac'];
+	if($ac=="add"){
+		include("modules/nguoisudung/add.php");
+	}
+	if($ac=="lietke"){
+		include("modules/nguoisudung/lietke.php");
+	}
+	if($ac=="edit"){
+		include("modules/nguoisudung/edit.php");
+	}
+	if($ac=="del"){
+		include("modules/nguoisudung/del.php");
+	}
+	if($ac=="thongke"){
+		include("modules/nguoisudung/thongke.php");
+	}
+	if($ac=="lietkechitiet"){
+		include("modules/nguoisudung/lietkechitiet.php");
+	}
+?>

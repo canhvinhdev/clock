@@ -1,0 +1,12 @@
+09.11.2016 04:15:44 <!-- sql=[delete from theloai 
+	where id=6] --> 
+18.11.2016 06:39:24 <!-- sql=[delete from theloai 
+	where id=10] --> 
+21.11.2016 12:38:36 <!-- sql=[delete from theloai 
+	where id=11] --> 
+14.12.2016 06:53:33 <!-- sql=[delete from theloai 
+	where id=13] --> 
+16.12.2016 01:13:49 <!-- sql=[delete from theloai 
+	where id=12] --> 
+16.12.2016 01:14:32 <!-- sql=[delete from theloai 
+	where id=7] --> 

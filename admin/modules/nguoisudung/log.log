@@ -1,0 +1,10 @@
+30.10.2016 04:28:36 <!-- sql=[insert into nguoisudung (tendangnhap,matkhau,tendaydu,diachi,homthu,sodienthoai,trangthai,phanquyen) values (n'thuyaiko',n'thuyaiko',n'Bùi Thị Thúy',n'Viện Nội, Ứng Hòa, TP. Hà Nội',n'keocucdang1002@gmail.com','1644119520','1',n'admin')] --> 
+30.10.2016 04:54:44 <!-- sql=[update nguoisudung set tendangnhap=n'thuyaiko',matkhau=n'thuyaiko',tendaydu=n'Bùi Thị Thúy',diachi=n'Viện Nội, Ứng Hòa, TP. Hà Nội',homthu=n'keocucdang1002@gmail.com',sodienthoai=n'1644119520',trangthai=n'1',phanquyen=n'admin' WHERE id =1] --> 
+02.11.2016 05:18:55 <!-- sql=[update nguoisudung set tendangnhap=n'thuyaiko',matkhau=n'e8e7ab4d53d6c618f3b5a64853654ccd',tendaydu=n'Bùi Thị Hằng',diachi=n'Viên Nội, Ứng Hòa, Hà Nội',homthu=n'thuyaiko94@gmail.com',sodienthoai=n'1644119520',trangthai=n'1',phanquyen=n'member' WHERE id =2] --> 
+08.11.2016 04:35:51 <!-- sql=[insert into nguoisudung (tendangnhap,matkhau,tendaydu,ngaysinh,gioitinh,diachi,homthu,sodienthoai,trangthai,phanquyen) values (n'thuyaiko',n'thuyaiko',n'Bùi Thị Thúy',n'10/02/1994',n'Nữ',n'keo@gmail.com',n'','0','',n'')] --> 
+08.11.2016 04:36:04 <!-- sql=[delete from nguoisudung 
+		where id=11] --> 
+09.11.2016 06:36:38 <!-- sql=[delete from nguoisudung 
+		where id=7] --> 
+29.11.2016 08:08:35 <!-- sql=[delete from nguoisudung 
+		where id=23] --> 

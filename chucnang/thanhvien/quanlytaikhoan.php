@@ -1,0 +1,9 @@
+<?php
+	$ac=$_GET['ac'];
+	if($ac=="lietke"){
+		include("chucnang/thanhvien/lietketttk.php");
+	}
+	if($ac=="sua"){
+		include("chucnang/thanhvien/suatttk.php");
+	}
+?>
